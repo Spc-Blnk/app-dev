@@ -31,5 +31,6 @@ Through a series of poignant experiences, Charlie learns to cope with his past t
 
 ## Quotes
 
->""We accept the love we think we deserve." - Charlie"
->""And in that moment, I swear we were infinite." - Charlie"
+>**""We accept the love we think we deserve." - Charlie"
+
+>**""And in that moment, I swear we were infinite." - Charlie"
