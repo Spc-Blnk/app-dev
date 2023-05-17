@@ -6,7 +6,7 @@
 
 **Writer:** Stephen Chbosky (screenplay), based on his novel of the same name
 
-##Synopsis
+#Synopsis
 
 "The Perks of Being a Wallflower" is a coming-of-age drama film that explores the journey of a socially awkward teenager named Charlie. Set in the early 1990s, the movie follows Charlie as he navigates high school, relationships, and the complexities of adolescence.
 
